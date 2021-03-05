@@ -1,4 +1,4 @@
 # yeet
 
-Page: http://botestteam.github.io/yeet/.
+Page: http://botestteam.github.io/yeet/
 
